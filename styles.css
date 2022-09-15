@@ -7,7 +7,7 @@ ul {
     list-style: none;
 }
 section ul li {
-    transition: transform .3s;
+    transition: transform .35s;
 }
 section ul li:hover {
     transform: scale(1.1);
